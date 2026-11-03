@@ -9,7 +9,7 @@ public class App extends JFrame {
     private GamePanel game;
 
     public App() {
-        super("Magic Missle");
+        super("Magic Missile");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setResizable(false);
 

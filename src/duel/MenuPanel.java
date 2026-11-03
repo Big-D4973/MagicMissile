@@ -23,7 +23,7 @@ public class MenuPanel extends JPanel {
         c.gridx=0; c.fill=GridBagConstraints.HORIZONTAL;
         c.insets = new Insets(10, 0, 10, 0);
 
-        JLabel title = new JLabel("Magic Missle", SwingConstants.CENTER);
+        JLabel title = new JLabel("Magic Missile", SwingConstants.CENTER);
         title.setForeground(Color.WHITE);
         title.setFont(title.getFont().deriveFont(Font.BOLD, 40f));
 
