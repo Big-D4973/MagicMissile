@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TakeMaho">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MagicMissle-main/TakeMaho_jar/TakeMaho.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
